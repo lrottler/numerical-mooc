@@ -1,5 +1,10 @@
 This is an extra line done on my local machine.  No instructions on course website on how to do this from the command line on linux.
 
+1. Edit and save file on local machine.
+2. git commit 'filename'
+3. git push
+4. Go to 'yourusername/numerical-mooc' on Github or refresh page if already there to see the changes on Github.
+
 #Practical Numerical Methods in Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
