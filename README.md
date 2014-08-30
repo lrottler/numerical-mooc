@@ -1,3 +1,5 @@
+This is an extra line done on my local machine.  No instructions on course website on how to do this from the command line on linux.
+
 #Practical Numerical Methods in Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
